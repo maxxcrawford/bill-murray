@@ -1,0 +1,12 @@
+body {
+	font-family: 'Spartan', sans-serif;
+
+	height: 100%;
+	position: relative;
+}
+
+.background {
+	background: url(background.jpg) center 25% no-repeat;
+	background-size: cover;
+	min-height: 100vh;
+}
